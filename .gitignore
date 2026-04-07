@@ -1,3 +1,14 @@
+# Planning documents
+계획.md
+노트/
+
+# Local data
+output/
+test-samples/
+
+# Build output
+dist/
+
 # Logs
 logs
 *.log
